@@ -6,8 +6,8 @@
 
 ### WIP
 
-- Daily, Weekly and Monthly Forecasting Model
-- Forecasting Model Integration
+- Daily, Weekly and Monthly Forecasting Neural Network Model
+- Forecasting Neural Network Model Integration
 
 ### TODOs
 
